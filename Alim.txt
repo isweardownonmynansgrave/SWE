@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>Meine Website</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header>
+    <h1>Meine Website</h1>
+    <nav>
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Über mich</a></li>
+        <li><a href="#">Kontakt</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+
+    <section>
+      <h2>Inhaltsbereich</h2>
+      <p>Hier kann der Inhalt der Website angezeigt werden.</p>
+      <img src="image.jpg" alt="Bild">
+      <p>Hier kann noch mehr Inhalt angezeigt werden.</p>
+    </section>
+
+    <aside>
+      <h2>Sidebar</h2>
+      <ul>
+        <li>Link 1</li>
+        <li>Link 2</li>
+        <li>Link 3</li>
+      </ul>
+    </aside>
+
+  </main>
+
+  <footer>
+    <p>Copyright &copy; 2024</p>
+  </footer>
+
+</body>
+</html>
